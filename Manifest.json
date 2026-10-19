@@ -1,0 +1,9 @@
+{
+  "name": "UngaLimited Cleaning Services - Daraja 2",
+  "short_name": "UngaCleaning",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [{"src": "https://cdn-icons-png.flaticon.com/512/995/995053.png","sizes": "512x512","type": "image/png"}]
+}
